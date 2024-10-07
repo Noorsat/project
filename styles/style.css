@@ -97,7 +97,7 @@ table {
 	font-size: 16px;
 }
 .header__button{
-	color: green;
+	color: blue;
 	font-size: 16px;
 	font-weight: 700;
 	background: rgba(64, 140, 255, 0.1);
@@ -109,7 +109,7 @@ table {
 	margin-bottom: 24px;
 }
 .ad__wrapper{
-	display: flex;
+	display: flex ;
 	align-items: center;
 	justify-content: space-between;
 }
