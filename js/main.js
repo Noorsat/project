@@ -82,3 +82,10 @@
 
 // sayHello();
 
+const arr = ["red", "yellow", "black", "blue", "green"];
+
+const body = document.querySelector("body");
+
+setInterval(() => {
+    body.style.background = arr[Math.floor(Math.random()*5)]
+}, 3000)
